@@ -7,7 +7,7 @@ VT_REPQUERY is a simple utility written in python that uses the VirusTotal API 2
 
 Usage
 -----
-**Running BuildVPN**
+**Running vt_repquery**
 
  ./vt_repquery.py [OPTION] [ARG]
 
